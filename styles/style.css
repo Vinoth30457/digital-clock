@@ -45,6 +45,7 @@ li {
 }
 
 .card {
+  width: 22rem;
   border: 4px solid #fff;
   padding: 2rem;
   display: flex;
@@ -57,12 +58,12 @@ li {
 
 
 .time {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
 
 }
 
 .date {
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 @media screen and (min-width: 576px) {}
